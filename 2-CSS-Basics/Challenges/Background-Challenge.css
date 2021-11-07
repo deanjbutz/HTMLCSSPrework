@@ -13,12 +13,13 @@ body{
 
 /* 4 */
 .background1{
-    background-color: lightblue;
+    background-image: linear-gradient(to right, lightgray, lightgreen);
 }
 
 /* 5 */
 .background2{
-    background-image: url("../assets/upfeathers.png");
+    background-image: url("../../assets/milky-way-starry-sky-night-sky-star-956999.jpeg");
+    color: white;
 }
 
 /* 7 */

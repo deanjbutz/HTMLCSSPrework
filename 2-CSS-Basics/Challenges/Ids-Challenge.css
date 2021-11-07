@@ -1,7 +1,8 @@
 /* For Testing */
-/*body {
-    background-color: blue;
-}*/
+body {
+    background-color: black;
+    color: white;
+}
 
 /* rule-set #1 */
 #number-one{
@@ -21,4 +22,14 @@
 /* rule-set #4 */
 .second-class{
     font-size: 24px;
+}
+
+#list{
+    color: orange;
+}
+
+#list-header{
+    color: orange;
+    font-size: 24px;
+    font-style: bold;
 }
